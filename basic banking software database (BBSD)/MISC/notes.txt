@@ -1,0 +1,37 @@
+It sucks to have 4 weeks of planning go down the drain because of 1 simple thing I thought I knew but didn't. I didn't allocated enough time to build the header file and it wouldn't compile with it. So i'm sorry but I cannot include the header file in this release. 
+
+I spent most of my time debugging and polishing it and I was going to build the header file an hour before the deadline, but as of 23:13 I still cannot get it to work. And research has shown its more complex than I orginally thought. I personally have never seen a language with a header file I figured it was the same as the main() class where you just copy it to the top of the fine and be done. 
+
+But anyways, it works. its not great... and the header file I wrote is good enough for anyone to look over it and get the idea of whats going on.
+
+If I had planned 2 hours out on the header file, it would be done. 
+
+The account information is in the member.db
+
+The structure goes as follows
+Account #
+Username
+PAssword
+First Name
+Last Name
+Cash
+Bank
+Account Type
+Permissions (0 - 2) 0 = Cust, 1 = Empl 2 = Root.
+
+So 
+Brandan supersecret = admin
+Employee supersecret = employee
+Customer supersecret = customer
+and anyone else you added.
+
+
+I tried to add a detailed help screen... not sure of it though. It helped me at least.
+
+I made a flowchart, it sucks too. 
+
+It sucks knowing that I'm going to have to turn this in basically unpolished, unoptimised, and unfinished. It really does. 
+
+This is one of the projects I wouldn't put my name on if I wrote it for the public to see. 
+
+Besides that the only other problem I had was with the AccountType... what was I suppose to do with that? I made it more of a bank teller system than an ATM, I realised that at the end. 

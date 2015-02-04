@@ -1,0 +1,48 @@
+GRADE: 85/100 85%
+
+Brandan,
+
+
+I understand the planning that you went through and your trouble in getting the header files working as you ran out of time. Do not despair as the next assignment 3 is your opportunity to fix this. Your overall grade can certainly improve and recover as you are capable of more. I would like to see you do better. Here is the grdaing criteria for you to learn from.
+
+Programming Assignment #2 is an advanced program that helps create a firm foundation for Object-Oriented programming.
+
+
+
+Goal: To review C++ concepts and write a C++ program using functions, arrays of structs, strings and files, and basic search function.
+
+
+
+Grading Criteria
+
+=============
+
+Program Design
+
+Program Broken down into Multiple files
+
+Functional Specification
+
+Text Based User Interface Menu
+
+Algorithms and Flowcharts
+
+Use of appropriate Data Structures (using structs)
+
+Leveraging Inheritance concept so that Object-Oriented principles can be applied easily
+
+Simple Command Line Interface Implemented and complete
+
+File Input and Output interface implemented and working
+
+Search for a record using simple search functions
+
+Log interface  complete
+
+All requested functionality complete
+
+Documented Known Issues and Limitations
+
+Sample Input/Output Screen-shots
+
+Adequate Testing of corner-cases and conditions
